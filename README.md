@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./static/terminal.gif">
+  <img src="https://github.com/AhrazA/AhrazA/blob/master/static/terminal.gif?raw=true">
 </p>
 
 ## About
