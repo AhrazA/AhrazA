@@ -8,10 +8,10 @@ Living in Gothenburg, Sweden.
 
 ### Experience
 
- - Feb 2020 -> Now - **Avinode AB**:
+ - March 2020 -> Now - **Avinode AB**:
     - **Site Reliability Engineer**: Maintaining and managing development infrastructure, deployment infrastructure and operational responsibilities for Avinode.
 
- - Sept 2017 -> Feb 2020 - **Combination AB**:
+ - Sept 2017 -> March 2020 - **Combination AB**:
     - **Senior Software Engineer**: Cloud based systems development and infrastructure management for several products.
 
  - Aug 2016 -> Sept 2017 - **SoftwareSkills AB**:
