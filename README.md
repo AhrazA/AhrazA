@@ -8,6 +8,7 @@ Living in Gothenburg, Sweden.
 
 ### Experience
  - April 2020 -> Now - **Boneprox AB**:
+    - **Tech Lead**: Resonsible for engineering management, software development, operations and technical direction at Boneprox.com.
 
  - March 2020 -> March 2021 - **Avinode AB**:
     - **Site Reliability Engineer**: Maintaining and managing development infrastructure, deployment infrastructure and operational responsibilities for Avinode.
