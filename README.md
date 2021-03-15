@@ -7,8 +7,9 @@
 Living in Gothenburg, Sweden.
 
 ### Experience
+ - April 2020 -> Now - **Boneprox AB**:
 
- - March 2020 -> Now - **Avinode AB**:
+ - March 2020 -> March 2021 - **Avinode AB**:
     - **Site Reliability Engineer**: Maintaining and managing development infrastructure, deployment infrastructure and operational responsibilities for Avinode.
 
  - Sept 2017 -> March 2020 - **Combination AB**:
